@@ -1,0 +1,21 @@
+# Jupyter / Widget Support
+jupyterlab-widgets
+ipywidgets
+
+# NLP ve LLM
+transformers
+accelerate
+bitsandbytes
+sentence-transformers
+
+# FAISS & Embedding
+faiss-cpu
+omegaconf
+
+# Torch
+torch==2.3.0
+torchvision==0.18.0
+
+# Gerekli alt kütüphaneler
+numpy
+charset-normalizer
